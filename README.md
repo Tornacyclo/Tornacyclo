@@ -8,5 +8,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornacyclo&langs_count=10&theme=react&border_radius=5)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tornacyclo/Tornacyclo&type=Date)]
