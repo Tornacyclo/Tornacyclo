@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tornacyclo&count_private=true&show_icons=true&title_color=0F52BA&text_color=0F52BA&icon_color=0F52BA&border_color=0F52BA&border_radius=5)
-$\newline$
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornacyclo&langs_count=10&border_color=0F52BA)
 
 
