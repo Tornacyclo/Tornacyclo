@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tornacyclo&count_private=true&show_icons=true&theme=react&title_color=0F52BA&border_radius=5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tornacyclo&count_private=true&show_icons=true&theme=react&ring_color=0F52BA&border_radius=5)
 
 
 # Peace Hegemony
