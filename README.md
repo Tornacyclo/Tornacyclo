@@ -8,4 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/peacehegemony)
 
 
+<a href="https://www.tutorialspoint.com"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760765.png" alt="Tutorialspoint" style="width:50px;height:60px;"></a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornacyclo&langs_count=10&theme=react&border_radius=5)
