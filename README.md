@@ -8,7 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/peacehegemony)
 
 
-<a href="https://www.tutorialspoint.com"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760765.png" alt="Tutorialspoint" style="width:50px;height:60px;"></a>
+<a href="https://tornacyclo.github.io/peacehaven.github.io/"><img src="Golden Pheasant 5295x3841.jpg" alt="Personal website" style="width:500px;height:500px;"></a>
 <a href="https://www.kaggle.com/peacehegemony" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 
