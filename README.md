@@ -9,7 +9,7 @@
 
 
 <a href="https://www.tutorialspoint.com"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760765.png" alt="Tutorialspoint" style="width:50px;height:60px;"></a>
-<a href="https://www.kaggle.com/peacehegemony" target="_blank"><img align="left" alt="Kaggle" title="View my Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+<a href="https://www.kaggle.com/peacehegemony" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tornacyclo&langs_count=10&theme=react&border_radius=5)
